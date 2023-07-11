@@ -5,6 +5,7 @@
   "main": "app.js",
   "scripts": {
     "start": "node backend/app.js",
+    "build": "react-scripts build",
     "server": "nodemon backend/app.js"
   },
   "author": "Rudra",
