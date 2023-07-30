@@ -13,7 +13,7 @@ const Footer = () => {
                 justifyContent: 'center',
                 alignItems: 'center'
             }}>
-                <Box component='span' sx={{ color: palette.primary.main }}>Job Board by Group B44</Box>
+                <Box component='span' sx={{ color: palette.primary.main }}>© 2023 Job Board</Box>
 
             </Box>
         </>
