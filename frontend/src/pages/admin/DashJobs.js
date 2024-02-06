@@ -56,7 +56,6 @@ const DashJobs = () => {
             ))
 
         },
-
         {
             field: 'salary',
             headerName: 'Salary',
